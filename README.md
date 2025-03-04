@@ -3,7 +3,7 @@
 A responsive **BMI Calculator** web application that calculates Body Mass Index (BMI) based on user input and categorizes health status.
 
 ## 🖥️ Live Demo
-[Check it out on Netlify](#) *(Replace with your deployed link if available)*
+https://surajgupta-2003.github.io/BMI-Calculator/
 
 ## 📌 Features
 - 🎨 **Attractive UI** with smooth hover effects
