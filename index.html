@@ -129,8 +129,8 @@
             } else {
                 category = "Obese";
             }
-
-            resultDiv.innerHTML = `Your BMI is <strong>${bmi.toFixed(2)}</strong> (${category})`;
+            var idealweight=0.0022*(height*height);
+            resultDiv.innerHTML = `Your BMI is <strong style="color:red">${bmi.toFixed(2)}</strong> (${category}) <br> Your ideal weight should be <strong style="color:red">${idealweight.toFixed(2)}</strong> Kg.`;
         }
     </script>
 </body>
